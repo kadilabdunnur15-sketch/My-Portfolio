@@ -1,4 +1,4 @@
-﻿# Engr. Abdun-Nur D. Kadil - Engineering Portfolio
+# Engr. Abdun-Nur D. Kadil - Engineering Portfolio
 
 > **Registered Civil Engineer (RCE) & Certified Safety Officer 2 (COSH)**  
 > Western Mindanao State University Alumnus • Philippine Coconut Authority (PCA-ZRC)
@@ -6,7 +6,7 @@
 An interactive, responsive, and minimalist web portfolio showcasing civil and structural engineering projects, FEA/CFD simulation models, and technical proficiencies.
 
 ## 🚀 Live Demo
-- Deployed via **Netlify**: *[Insert your Netlify URL here]*
+- Deployed via **Netlify**: **[https://engrkadil.netlify.app](https://engrkadil.netlify.app)**
 
 ## 🛠️ Tech Stack
 - **Frontend:** Semantic HTML5, CSS3 (Modern CSS Grid & Flexbox, CSS Custom Properties, Glassmorphism), Vanilla ES6 JavaScript
